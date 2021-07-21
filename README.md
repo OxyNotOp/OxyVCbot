@@ -1,41 +1,39 @@
-<h1 align="centre">DAISYXMUSIC V5.5 🎵</h1> 
+<h1 align="centre">OXYXMUSIC V4.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Music_op_bot](https://t.me/Music_op_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/a765ac304f4d6f507e544.jpg">
 </p>
 
-<h2> Features 🔥 </h2>
+<h2> 🔥 Features 🔥 </h2>
 
 - Thumbnail Support
 - Playlist Support
 - Current playback support
 - Showing track names when skipping
 - Zero downtime, Fully Stable
-- Deezer,Youtube & Saavn playback support
+- DEEZER,YOUTUBE & SAAVN PLAYBACK SUPPORTED
 - Settings panel
 - Control with buttons
 - Userbot auto join
 - Channel Music Play
-- Keyboard selection support for youtube play
 
 ## 🚀 Deployment
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/OxyXmusic/tree/Py-Tgcalls)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OxyNotOp/OxyXmusicV4)
 
-Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
+Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
-$ cd OxyXmusic
+$ git clone https://github.com/OxyNotOp/OxyXmusicV4
+$ cd OxyXmusic4
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
@@ -52,7 +50,6 @@ $ python(3) -m OxyXmusic
 - `/play <reply to audio>` - play replied file
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
-- `/ytplay <song name>`: Directly play song via Youtube Music
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
 - `/song <song name>` - download songs you want quickly
@@ -70,12 +67,10 @@ $ python(3) -m OxyXmusic
 - `/userbotjoin` - invite assistant to your chat
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
-- `/musicplayer [on/off]` - Enable/Disable Music Player
 
 ### Commands for Channel Music Play 🛠
 For linked group admins only:
 - `/cplay <song name>` - play song you requested
-- `/cplay <reply to link>` - play replied youtube link
 - `/cplay <reply to audio>` - play replied file
 - `/cdplay <song name>` - play song you requested via deezer
 - `/csplay <song name>` - play song you requested via jio saavn
@@ -92,7 +87,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
+ 3. Add @Music_op_bot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -106,26 +101,15 @@ If you donlt like to play in linked channel:
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
+
+
 ### Credits
-Don't edit this part
+This bot is based on the original work done by [Lucifer](http://github.com/dineshpamnani860). Without his hardwork oxyxmusic won't exist. 
+OxyXmusic is a modified version of [Munna](https://github.com/callsmusic/xxMUNNAxx) for fit the needs of @Music_op_bot users
 
-#### Special Credits
-- [OxyNotOp](http://github.com/rojserbest): Callsmusic Developer
+<details>
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
+<summary> • 🔥CREDITS🔥 • </summary>
+<h2 align="center"> <a href="https://github.com/xxMUNNAxx">🔥 MUNNA 🔥</a></h2><h2 align="center"> <a href="https://github.com/dineshpamnani860">🔥 Lucifer 🔥</a></h2><h2 align="center"> <a href="https://github.com/Omiiiiii143">🔥 Smokie 🔥</a></h2><h2 align="center"> <a href="https://github.com/Anubis-Devil">🔥 Devil 🔥</a></h2><h2 align="center"> <a href="https://github.com/GodkillerOp">🔥 GodKiller 🔥</a></h2>
 
-#### Contribtors
-- [InukaAsith](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [OxyNotOp](http://github.com/rojserbest): Developer of callsmusic 
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo owners](https://github.com/suprojects/CallsMusic)
+</details>
