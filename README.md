@@ -109,23 +109,11 @@ If you donlt like to play in linked channel:
 ### Credits
 Don't edit this part
 
-#### Special Credits
-- [Roj Serbest](http://github.com/rojserbest): Callsmusic Developer
+</details>
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-Oxy_VC_03 is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
+<details>
 
-#### Contribtors
-- [InukaAsith](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo owners](https://github.com/suprojects/CallsMusic)
+<summary> • 🔥CREDITS🔥 • </summary>
+<h2 align="center"> <a href="https://github.com/xxMUNNAxx">🔥 MUNNA 🔥</a></h2><h2 align="center"> <a href="https://github.com/dineshpamnani860">🔥 Lucifer 🔥</a></h2><h2 align="center"> <a href="https://github.com/Omiiiiii143">🔥 Smokie 🔥</a></h2><h2 align="center"> <a href="https://github.com/Anubis-Devil">🔥 Devil 🔥</a></h2><h2 align="center"> <a href="https://github.com/GodkillerOp">🔥 GodKiller 🔥</a></h2>
+
+</details>
