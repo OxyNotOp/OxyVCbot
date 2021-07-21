@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "DaisyXmusic"
+          find: "DaisyXBot"
 
-          replace: "Oxy_VC_03"
+          replace: "Music_op_bot"
 
       - name: Create Pull Request
 
