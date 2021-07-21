@@ -34,7 +34,7 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/TeamDaisyX/Oxy_VC_03
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -113,7 +113,7 @@ Don't edit this part
 - [Roj Serbest](http://github.com/rojserbest): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
+Oxy_VC_03 is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
 
 #### Contribtors
 - [InukaAsith](https://github.com/InukaAsith): Dev
