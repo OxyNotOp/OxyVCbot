@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "DaisyXhelper"
+          find: "@DaisyXhelper"
 
-          replace: "Oxy_VC_03"
+          replace: "@Oxy_VC_03"
 
       - name: Create Pull Request
 
