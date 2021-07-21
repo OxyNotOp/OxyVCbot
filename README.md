@@ -34,15 +34,15 @@ Get pyrogram (p)  `SESSION` from here:
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/Oxy_VC_03
-$ cd DaisyXMusic
+$ git clone https://github.com/OxyNotOp/OxyVCbot
+$ cd OxyVCbot
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m DaisyXMusic
+$ python(3) -m OxyVCbot
 ```
 
 ### Commands for Group 🛠
