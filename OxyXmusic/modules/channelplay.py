@@ -32,30 +32,30 @@ from pyrogram.types import Voice
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
-from DaisyXMusic.modules.play import generate_cover
-from DaisyXMusic.modules.play import arq
-from DaisyXMusic.modules.play import cb_admin_check
-from DaisyXMusic.modules.play import transcode
-from DaisyXMusic.modules.play import convert_seconds
-from DaisyXMusic.modules.play import time_to_seconds
-from DaisyXMusic.modules.play import changeImageSize
-from DaisyXMusic.config import BOT_NAME as bn
-from DaisyXMusic.config import DURATION_LIMIT
-from DaisyXMusic.config import UPDATES_CHANNEL as updateschannel
-from DaisyXMusic.config import que
-from DaisyXMusic.function.admins import admins as a
-from DaisyXMusic.helpers.errors import DurationLimitError
-from DaisyXMusic.helpers.decorators import errors
-from DaisyXMusic.helpers.admins import get_administrators
-from DaisyXMusic.helpers.channelmusic import get_chat_id
-from DaisyXMusic.helpers.decorators import authorized_users_only
-from DaisyXMusic.helpers.filters import command, other_filters
-from DaisyXMusic.helpers.gets import get_file_name
-from DaisyXMusic.services.callsmusic import callsmusic
-from DaisyXMusic.services.callsmusic.callsmusic import client as USER
-from DaisyXMusic.services.converter.converter import convert
-from DaisyXMusic.services.downloaders import youtube
-from DaisyXMusic.services.queues import queues
+from OxyXmusic.modules.play import generate_cover
+from OxyXmusic.modules.play import arq
+from OxyXmusic.modules.play import cb_admin_check
+from OxyXmusic.modules.play import transcode
+from OxyXmusic.modules.play import convert_seconds
+from OxyXmusic.modules.play import time_to_seconds
+from OxyXmusic.modules.play import changeImageSize
+from OxyXmusic.config import BOT_NAME as bn
+from OxyXmusic.config import DURATION_LIMIT
+from OxyXmusic.config import UPDATES_CHANNEL as updateschannel
+from OxyXmusic.config import que
+from OxyXmusic.function.admins import admins as a
+from OxyXmusic.helpers.errors import DurationLimitError
+from OxyXmusic.helpers.decorators import errors
+from OxyXmusic.helpers.admins import get_administrators
+from OxyXmusic.helpers.channelmusic import get_chat_id
+from OxyXmusic.helpers.decorators import authorized_users_only
+from OxyXmusic.helpers.filters import command, other_filters
+from OxyXmusic.helpers.gets import get_file_name
+from OxyXmusic.services.callsmusic import callsmusic
+from OxyXmusic.services.callsmusic.callsmusic import client as USER
+from OxyXmusic.services.converter.converter import convert
+from OxyXmusic.services.downloaders import youtube
+from OxyXmusic.services.queues import queues
 
 chat_id = None
 

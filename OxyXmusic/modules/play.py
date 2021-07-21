@@ -33,24 +33,24 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
 
-from DaisyXMusic.config import ARQ_API_KEY
-from DaisyXMusic.config import BOT_NAME as bn
-from DaisyXMusic.config import DURATION_LIMIT
-from DaisyXMusic.config import UPDATES_CHANNEL as updateschannel
-from DaisyXMusic.config import que
-from DaisyXMusic.function.admins import admins as a
-from DaisyXMusic.helpers.admins import get_administrators
-from DaisyXMusic.helpers.channelmusic import get_chat_id
-from DaisyXMusic.helpers.errors import DurationLimitError
-from DaisyXMusic.helpers.decorators import errors
-from DaisyXMusic.helpers.decorators import authorized_users_only
-from DaisyXMusic.helpers.filters import command, other_filters
-from DaisyXMusic.helpers.gets import get_file_name
-from DaisyXMusic.services.callsmusic import callsmusic
-from DaisyXMusic.services.callsmusic.callsmusic import client as USER
-from DaisyXMusic.services.converter.converter import convert
-from DaisyXMusic.services.downloaders import youtube
-from DaisyXMusic.services.queues import queues
+from OxyXmusic.config import ARQ_API_KEY
+from OxyXmusic.config import BOT_NAME as bn
+from OxyXmusic.config import DURATION_LIMIT
+from OxyXmusic.config import UPDATES_CHANNEL as updateschannel
+from OxyXmusic.config import que
+from OxyXmusic.function.admins import admins as a
+from OxyXmusic.helpers.admins import get_administrators
+from OxyXmusic.helpers.channelmusic import get_chat_id
+from OxyXmusic.helpers.errors import DurationLimitError
+from OxyXmusic.helpers.decorators import errors
+from OxyXmusic.helpers.decorators import authorized_users_only
+from OxyXmusic.helpers.filters import command, other_filters
+from OxyXmusic.helpers.gets import get_file_name
+from OxyXmusic.services.callsmusic import callsmusic
+from OxyXmusic.services.callsmusic.callsmusic import client as USER
+from OxyXmusic.services.converter.converter import convert
+from OxyXmusic.services.downloaders import youtube
+from OxyXmusic.services.queues import queues
 
 aiohttpsession = aiohttp.ClientSession()
 chat_id = None

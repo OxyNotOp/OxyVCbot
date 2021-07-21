@@ -18,9 +18,9 @@
 from pyrogram import Client, filters
 from pyrogram.errors import UserAlreadyParticipant
 import asyncio
-from DaisyXMusic.helpers.decorators import authorized_users_only, errors
-from DaisyXMusic.services.callsmusic.callsmusic import client as USER
-from DaisyXMusic.config import SUDO_USERS
+from OxyXmusic.helpers.decorators import authorized_users_only, errors
+from OxyXmusic.services.callsmusic.callsmusic import client as USER
+from OxyXmusic.config import SUDO_USERS
 
 @Client.on_message(filters.command(["userbotjoin"]) & ~filters.private & ~filters.bot)
 @authorized_users_only
