@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "Inuka Asith"
+          find: "Daisyxmusic"
 
-          replace: "OxyNotOp"
+          replace: "OxyXmusic"
 
       - name: Create Pull Request
 
