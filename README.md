@@ -35,7 +35,7 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/OxyNotOp/OxyVCbot
-$ cd OxyVCbot
+$ cd OxyXmusic
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
