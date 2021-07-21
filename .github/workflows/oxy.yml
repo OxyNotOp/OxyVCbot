@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "Inukaasith"
+          find: "DaisyXhelper"
 
-          replace: "OxyNotOp"
+          replace: "Oxy_VC_03"
 
       - name: Create Pull Request
 
